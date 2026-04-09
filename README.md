@@ -4,8 +4,9 @@
 </p>
 
 Hello my name is **Muh Irsyad Dwi Kurniawan**.\
-I am an Informatics Engineering Student at UPN "Veteran" East Java.\
-I'm currently participating in Independent Study activities at Bangkit Academy as an Android Development.\
+I am a Fresh Graduate in Informatics Engineering from UPN "Veteran" East Java.\
+I am also a graduate of the Android Development program at Bangkit Academy 2023.\
+Additionally, I have experience as an intern at INKA Group as an Information Technology staff.\
 If you are interested in getting to know me, please follow my [LinkedIn](https://www.linkedin.com/in/muh-irsyad-dwi-kurniawan/).
 
 ## 📊 &nbsp;Stats
