@@ -16,7 +16,9 @@ If you are interested in getting to know me, please follow my [LinkedIn](https:/
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MuhammadIrsyadd&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-![Streak](https://streak-stats.demolab.com/?user=MuhammadIrsyadd&theme=algolia&v=2)
+<p align="center">
+  ![Streak](https://streak-stats.demolab.com/?user=MuhammadIrsyadd&theme=algolia&v=2)
+</p>
 ## 📫 Reach Me On
 <p align="center">
   <a href="https://github.com/MuhammadIrsyadd" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
