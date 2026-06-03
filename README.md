@@ -17,7 +17,7 @@ If you are interested in getting to know me, please follow my [LinkedIn](https:/
 </a>
 </p>
 <p align="center">
-  ![Streak](https://streak-stats.demolab.com/?user=MuhammadIrsyadd&theme=algolia&v=2)
+  <img src="https://streak-stats.demolab.com/?user=MuhammadIrsyadd&theme=algolia" />
 </p>
 ## 📫 Reach Me On
 <p align="center">
