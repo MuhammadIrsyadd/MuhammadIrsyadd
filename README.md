@@ -42,18 +42,7 @@ Hello, my name is **Muh Irsyad Dwi Kurniawan**.
 
 ### 📊 &nbsp;GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MuhammadIrsyadd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MuhammadIrsyadd&layout=compact&langs_count=8&theme=tokyonight&border_radius=12"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MuhammadIrsyadd&theme=tokyonight&border_radius=12" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadIrsyadd&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
+<p align="center"> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MuhammadIrsyadd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12"/> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MuhammadIrsyadd&layout=compact&langs_count=8&theme=tokyonight&border_radius=12"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=MuhammadIrsyadd&theme=tokyonight&border_radius=12" /> </p> <p align="center"> <img src="https://github-trophies.vercel.app/?username=MuhammadIrsyadd&theme=tokyonight&no-frame=true&row=1&column=7" /> </p>
 
 ---
 
