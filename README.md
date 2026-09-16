@@ -34,9 +34,7 @@ Hello, my name is **Muh Irsyad Dwi Kurniawan**.
 
 ### 🛠️ &nbsp;Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,android,firebase,figma,git,github,html,css,js,py,cpp,mysql,vscode" />
-</p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,cpp,react,nextjs,kotlin,firebase,git,github" /> </p>
 
 ---
 
