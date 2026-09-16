@@ -52,8 +52,6 @@ Hello, my name is **Muh Irsyad Dwi Kurniawan**.
   <img src="https://raw.githubusercontent.com/MuhammadIrsyadd/MuhammadIrsyadd/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-> 💡 To activate the snake animation, add the **[platane/snk](https://github.com/Platane/snk)** GitHub Action to your profile repo — it auto-generates the SVG above from your contribution graph.
-
 ---
 
 ### 📫 &nbsp;Reach Me On
