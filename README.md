@@ -65,6 +65,10 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MuhammadIrsyadd&layout=compact&langs_count=8&theme=tokyonight&border_radius=12" />
 </p>
 
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=MuhammadIrsyadd&theme=tokyonight&border_radius=12" />
+</p>
+
 ---
 
 ### 🐍 &nbsp;Contribution Snake
