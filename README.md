@@ -3,7 +3,7 @@
 <!-- HEADER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There,%20I'm%20Irsyad%20👋&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Fresh%20Graduate%20•%20Informatics%20Engineer&descAlignY=55&descAlign=50" width="100%"/>
 
-<!-- TYPING SVG (SUDAH DIPERBAIKI AGAR TIDAK KEPOTONG) -->
+<!-- TYPING SVG -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Bachelor+of+Computer+Science;Android+Developer+%40+Bangkit+Academy;Ex-IT+Staff+Intern+%40+INKA+Group;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
@@ -66,7 +66,7 @@
 </p>
 
 <p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=MuhammadIrsyadd&theme=tokyonight&border_radius=12" />
+  <img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=MuhammadIrsyadd&theme=tokyonight&border_radius=12" />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhammadIrsyadd&theme=tokyonight" />
 </p>
 
